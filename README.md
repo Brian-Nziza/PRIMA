@@ -1,9 +1,9 @@
 # Welcome to project Prima 
 
-**PRIMA** (PRedICtive MAintenance), is actually a small experiment with a big issue to tackle. companies face losses every year due to downtime of thier machines, and i thought it would be a good idea to impliment my own 3 phase design of a solution to this problem.
+**PRIMA** (PRedICtive MAintenance) is actually a small experiment with a big issue to tackle. Companies face annual losses due to machine downtime, and I propose implementing my own 3-phase design to address this problem.
 
-I understand that modern systems currently used advanced Predictive maintence methods, like SIEMENS,NXP, BOSCH currently use Digital twin system, which i will explore later in my project
+I understand that modern systems currently use advanced predictive maintenance methods, like SIEMENS and BOSCH, which at the moment use a digital twin system, which I will explore later in my project
 
-i also wanted to demonstrate my developing skills with embeded systems, and its intersection with machine learning also known as TinyML. 
+I also wanted to demonstrate my developing skills with embedded systems, and their intersection with machine learning, also known as TinyML. 
 
-This project is powered by the *esp32 WROOM-32* which according to the Datasheet has a 32-bit dual core Xtensa microprocesssor, and contains 520kb of SRAM. the engineering challenge is designing a machine learning model that can predict machine failures given these physical constraints.
+This project is powered by the *esp32 WROOM-32*, which, according to the datasheet, has a 32-bit dual-core Xtensa microprocessor and contains 520 KB of SRAM. The engineering challenge is designing a machine learning model that can predict machine failures given these physical constraints.
