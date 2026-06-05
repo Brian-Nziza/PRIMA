@@ -1,6 +1,6 @@
 # Welcome to project Prima 
 
-**PRIMA** (PRedICtive MAintenance) is actually a small experiment with a big issue to tackle. Companies face annual losses due to machine downtime, and I propose implementing my own 3-phase design to address this problem.
+**PRIMA** (PRedICtive MAintenance) is actually a small experiment with a big issue to tackle. Companies face annual losses due to machine downtime, and I propose implementing my small edge AI digital twin Predictive maintenance tool to address this problem.
 
 I understand that modern systems currently use advanced predictive maintenance methods, like SIEMENS and BOSCH, which at the moment use a digital twin system, which I will explore later in my project
 
